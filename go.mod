@@ -1,4 +1,4 @@
-module local/action-transport-layer
+module github.com/nodejayes/action-transport-layer
 
 go 1.15
 
